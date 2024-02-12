@@ -1,0 +1,13 @@
+What is the capital of Ontario? Toronto
+What is the capital of Quebec? Quebec City
+What is the capital of British Columbia? Victoria
+What is the capital of Alberta? Edmonton
+What is the capital of Manitoba? Winnipeg
+What is the capital of Saskatchewan? Regina
+What is the capital of Nova Scotia? Halifax
+What is the capital of New Brunswic? Fredericton
+What is the capital of Newfoundland and Labrador? St Johns
+What is the capital of PEI? Charlottetown
+What is the capital of Yukon? Whitehorse
+What is the capital of Northwest Territories? Yellowknife
+What is the capital of Nunavut? Iqaluit
